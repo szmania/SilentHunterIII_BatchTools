@@ -1,4 +1,4 @@
-# SilentHunterIII_BatchTools
+# Silent Hunter III Batch Tools
 A collection of cmd tools used for manipulating game files of Silent Hunter III and interacting with SHVAlidator.
 
 ## Capabilities Include:

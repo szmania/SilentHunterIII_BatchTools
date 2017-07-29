@@ -1,0 +1,1 @@
+cmd /k "radio_messages_alignment.bat"
